@@ -141,17 +141,4 @@ Muhammad Bilal
 Disclaimer
 This software is provided "as is" without warranty of any kind.
 Unauthorized distribution or modification for commercial resale is prohibited without permission.
-
-markdown
-Copy code
-
----
-
-### If you want next:
-- `LICENSE.md (MIT / Commercial Hybrid)`
-- `Admin License Schema (SQLite)`
-- `Rust License Validation Logic`
-- `GitHub badges & professional repo polish`
-- `POS database schema`
-
-Tell me the next step, and I will prepare it professionally.
+will prepare it professionally.
